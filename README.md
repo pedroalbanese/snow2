@@ -2,6 +2,7 @@
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/snow2/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/snow2?status.png)](http://godoc.org/github.com/pedroalbanese/snow2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/snow2)](https://goreportcard.com/report/github.com/pedroalbanese/snow2)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18672514-blue.svg)](https://doi.org/10.5281/zenodo.18672514)
 
 SNOW 2.0 Stream Cipher in Pure Go 
 
