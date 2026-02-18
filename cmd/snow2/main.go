@@ -17,7 +17,6 @@ var (
 	key     = flag.String("k", "", "Symmetric key (hex) (16/32 bytes)")
 	nonce   = flag.String("n", "", "Nonce/IV (hex) (16 bytes)")
 	random  = flag.Bool("r", false, "Generate random key (32 bytes) and nonce (16 bytes)")
-	verbose = flag.Bool("v", false, "Verbose mode")
 )
 
 func main() {
